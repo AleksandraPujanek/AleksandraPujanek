@@ -5,7 +5,7 @@ In love with documentation. But only a good one ;) Otherwise I am a huge fan of 
 Team player.<br>
 Analytical thinker.<br>
 Problem solver.<br>
-Currently I work on upgrading to backend automation tester by studying and practicing REST API via Postman and Java/Rest Assured.
+Currently I work on upgrading to backend automation tester by studying and practicing REST API testing via Postman and Java/Rest Assured.
 
 ### about me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: degree: "Mathematician"<br>
