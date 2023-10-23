@@ -1,10 +1,10 @@
 ## Welcome to my Quality space! :star2:
 
-I am an System Quality Assurance Speciallist in role of Manual Tester.<br>
+I am a System Quality Assurance Speciallist in role of Manual Tester.<br>
 In love with documentation. But only a good one ;) Otherwise I am a huge fan of exploration.<br>
-Team player.<br>
-Analytical thinker.<br>
-Problem solver.<br>
+A team player.<br>
+An analytical thinker.<br>
+A problem solver.<br>
 Currently I work on upgrading to backend automation tester by studying and practicing REST API testing via Postman and Java/Rest Assured.
 
 ### about me
