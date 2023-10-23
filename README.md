@@ -14,6 +14,6 @@ Currently I work on upgrading to backend automation tester by studying and pract
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pushpin: role: Manual tester<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:date: begining: "06/2021"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:round_pushpin: location: remote / Wroclaw <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:link: "Li": "[linkedin.com/in/apujanek](http://linkedin.com/in/apujanek)"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:link: "portfolio": "[GitHub Portfolio](https://github.com/AleksandraPujanek/testingPortfolio)"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:link: LinkedIn: "[linkedin.com/in/apujanek](http://linkedin.com/in/apujanek)"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:link: portfolio available at: "[GitHub Portfolio](https://github.com/AleksandraPujanek/testingPortfolio)"<br>
 
