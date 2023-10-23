@@ -91,20 +91,3 @@ Problem solver.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"defects": "defect management",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"theory": "ISTQB principles"<br>
 }
-***
-<table>
-    <tr>
-        <th>Status dashboard</th>
-        <th>Tags dashboard</th>
-    </tr>
-    <tr>
-        <td width="50%">           
-        </td>
-        <td width="50%">         
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">Display and overview and offer actions to manipulate your project state.</td>
-        <td width="50%">View and manipulate local and remote tags.</td>
-    </tr>
-</table>
