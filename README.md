@@ -15,6 +15,6 @@ This space was created to collect and document my experience and skills in gener
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pushpin: role: Manual tester<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:date: begining: 06/2021<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:round_pushpin: location: remote / Wroclaw <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:link: LinkedIn:[linkedin.com/in/apujanek](http://linkedin.com/in/apujanek)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:link: LinkedIn: [linkedin.com/in/apujanek](http://linkedin.com/in/apujanek)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:link: portfolio available at: [GitHub Portfolio](https://github.com/AleksandraPujanek/testingPortfolio)<br>
 
