@@ -100,6 +100,7 @@ This space was created to collect and document my experience and skills in gener
 ![Static Badge](https://img.shields.io/badge/Postman-Newman-FF6C37?logo=postman&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Intellij-grey)
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Browserstack-Percy-8245A5?logo=percy&logoColor=white)
 
 {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"project": {<br>
@@ -115,4 +116,5 @@ This space was created to collect and document my experience and skills in gener
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto3": "Intellij"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"VC": "GitHub"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"realDeviceTesting": "Browserstack / Percy"<br> 
 }
