@@ -19,7 +19,7 @@ This space was created to collect and document my experience and skills in gener
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:round_pushpin: location: remote / Wroclaw <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:link: LinkedIn: [linkedin.com/in/apujanek](http://linkedin.com/in/apujanek)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:link: Portfolio: [automation testing portfolio](https://github.com/AleksandraPujanek/testingPortfolio)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:link: Certificate: [Backend Testing Academy - REST API / Postman / Java / Maven / Jenkins](https://github.com/AleksandraPujanek/SQLrequests/blob/main/images/STB_cert_eng.jpeg?raw=true)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:link: Certificate: [Backend Testing Academy - REST API / Postman / Java](https://github.com/AleksandraPujanek/SQLrequests/blob/main/images/STB_cert_eng.jpeg?raw=true)<br>
 
 ## :dart: <a name="responsibilities">responsibilities</a>
 
@@ -121,3 +121,10 @@ This space was created to collect and document my experience and skills in gener
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"VC": "GitHub"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"realDeviceTesting": "Browserstack / Percy"<br> 
 }
+
+## :book: <a name="tools">courses</a>
+{<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"courses": {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"SQL": ["SQL Bolt - Learn SQL with simple, interactive exercises"](https://sqlbolt.com/),<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"REST API": "[Szkoła testowania backendu / Backend Testing Academy](https://akademiaqa.pl/backend/)",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
